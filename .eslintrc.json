@@ -1,0 +1,17 @@
+{
+    "extends": [
+        "eslint:recommended",
+        "plugin:import/error",
+        "prettier"
+    ],
+    "rules": {
+        "no-console":1
+    },
+    "plugins": ["imports"],
+    "env": {
+        "es6": true,
+        "browser": true,
+        "node": true
+    }
+
+}
