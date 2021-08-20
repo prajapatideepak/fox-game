@@ -77,10 +77,10 @@ body {
   top: 0;
   background-color: blueviolet;
   color: white;
-  padding:25px;
-  font-size:20px;
-  font-weight:bold;
-  border-radius:12px
+  padding: 25px;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 12px;
 }
 .modal:empty {
   display: none;
@@ -120,9 +120,11 @@ body {
   top: 380px;
   left: 243px;
 }
-.fox-sleep{
-  ltop: 351px;
+.fox-sleep {
+  top: 351px;
   left: 445px;
 }
+/*Vijay Gooogle PAy:    9920108467 */
+
 
 /*# sourceMappingURL=/style.e308ff8e.css.map */
